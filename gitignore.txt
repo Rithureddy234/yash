@@ -1,0 +1,6 @@
+# nothing is built, so there is nothing to ignore but the usual litter
+.DS_Store
+Thumbs.db
+*~
+*.swp
+node_modules/
